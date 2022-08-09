@@ -1,0 +1,9 @@
+{
+	"name": "azureadflearnings",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "84c93b11-6b99-44b7-97b8-3a53857066fd",
+		"tenantId": "9e91ab40-d64b-4652-907a-1e41be04c436"
+	}
+}
